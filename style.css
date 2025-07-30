@@ -24,7 +24,7 @@
     height: 100%;
     width: 100%;
     background-color: black;
-    background-image: url(Amazonlogo.png);
+    background-image:url(images/Amazonlogo.png);
     background-size: cover;
 }
 
@@ -107,7 +107,7 @@
 .flag-icon{
     width:22px;
     height:19px;
-    background-image: url(american-flag.png);
+    background-image:url(images/american-flag.png);
     background-size: cover;
 }
 
@@ -171,7 +171,7 @@ span{
 
 /** Body **/
 .body-sec{
-    background-image: url(amazonBGimg.jpg);
+    background-image:url(images/amazonBGimg.jpg);
     background-size:cover;
     height: 500px;
     display: flex;
